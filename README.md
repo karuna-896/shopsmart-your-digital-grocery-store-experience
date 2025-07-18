@@ -8,7 +8,6 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 ## 📋 Features
 
 - 🚀 **Login/Sign Up**: Users can create accounts or log in to existing ones.
-- 🔐 **Forgot Password**: Forgot your password? No problem! Users can reset their passwords via email.
 - 🔒 **Update Password**: Users can change their passwords for added security.
 - 📝 **Customer Reviews**: Customers can leave reviews for products.
 - ✏️ **Update Reviews**: Customers can edit or delete their reviews.
